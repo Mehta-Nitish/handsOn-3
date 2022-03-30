@@ -1,0 +1,101 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background: white;
+    
+}
+
+.wrapper{
+    width: 800px;
+    margin: 50px auto;
+}
+.links{
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 3px;
+}
+.links ul{
+    display: flex;
+    justify-content: center;
+}
+.links ul li{
+    margin: 0 15px;
+    font-weight: 800;
+    
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 3px;
+    cursor: pointer;
+}
+.links ul li:hover,
+.links ul li:active
+{
+    color: green;
+}
+
+
+
+
+
+.list-view .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+    margin: auto;
+    width: 260px;
+    height: 300px;
+    font-family: arial;
+    background: white;
+    margin: 40px;
+  }
+  
+  .title {
+    color: grey;
+    font-size: 18px;
+  }
+  
+  
+  
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+
+  .main{
+      background-color:darkblue;
+      border-radius: 3px;
+      padding: 15px;
+  }
+
+.grid-view{
+    width: 100%;
+}
+
+.grid-view .card{
+    margin: auto;
+    width: 240px;
+    height: 300px;
+    font-family: arial;
+    background: white;
+    display: inline-block;
+}
+
+.emp th{
+    border: 1px solid black;
+}
+
+.table-remove {
+    color: #700;
+    cursor: pointer;
+ 
+  }
+  
+
+ 

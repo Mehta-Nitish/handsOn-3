@@ -1,0 +1,81 @@
+{
+    "E1" : {
+        "Name":"Nitish K",
+        "ID": "223456",
+        "Skills": "Angular,React,Vue",
+        "Project":"Cognizant Internal",
+        "HCM":"Apex",
+    },
+
+    "E2" : {
+        "Name":"Nitin",
+        "ID": "123457",
+        "Skills": "Angular,Bootstrap,Js",
+        "Project":"Cognizant Internal",
+        "HCM":"Apex",
+    },
+
+    "E3" : {
+        "Name":"Naina",
+        "ID": "623786",
+        "Skills": "React,IOT,Js",
+        "Project":"Cognizant Internal",
+        "HCM":"Apex",
+    },
+
+    "E4" : {
+        "Name":"M Pandey",
+        "ID": "425676",
+        "Skills": "SQL,Reacat,Vue",
+        "Project":"Cognizant Internal",
+        "HCM":"Apex",
+    },
+
+    "E5" : {
+        "Name":"Srivalli P",
+        "ID": "987456",
+        "Skills": "Angular,Vue",
+        "Project":"Cognizant Internal",
+        "HCM":"Apex",
+    },
+
+    "E6" : {
+        "Name":"Pushpa R",
+        "ID": "092456",
+        "Skills": "Js,React,Vue",
+        "Project":"Cognizant Internal",
+        "HCM":"Apex",
+    },
+
+    "E7" : {
+        "Name":"Konda R",
+        "ID": "908456",
+        "Skills": "Angular,React,Js",
+        "Project":"Cognizant Internal",
+        "HCM":"Apex",
+    },
+
+    "E8" : {
+        "Name":"Sanatan D",
+        "ID": "000456",
+        "Skills": "Angular,Java,Vue",
+        "Project":"Cognizant Internal",
+        "HCM":"Apex",
+    },
+
+    "E9" : {
+        "Name":"Tapan J",
+        "ID": "003400",
+        "Skills": "Java,React,Vue",
+        "Project":"Cognizant Internal",
+        "HCM":"Apex",
+    },
+
+    "E10" : {
+        "Name":"M Srinivas",
+        "ID": "120005",
+        "Skills": "Angular,React,Vue",
+        "Project":"Cognizant Internal",
+        "HCM":"Apex",
+    }
+}
